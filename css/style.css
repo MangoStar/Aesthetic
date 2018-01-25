@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+}
+
+.page {
+    display: block;
+    height: 959px;
+    overflow: hidden;
+}
+
+.showcase .case {
+    height: 100%;
+    display: block;
+}
+
+.showcase .case1 #donut {
+    text-align: center;
+    font-family: 'Gill Sans MT', sans-serif;
+    padding-top: 100px;
+}
+
+.cycleInput {
+    display: block;
+    position: absolute;
+    margin-top: 90px;
+    width: 100%;
+}
+
+.cycleInput .learnMore {
+    margin-top: -20px;
+    width: 200px;
+    height: 40px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.cycleInput .upCycle {
+    margin-top: 30px;
+}
+
+.cycleInput .downCycle {
+    margin-top: 10px;
+}
+
+.cycleInput button {
+    display: block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.showcase .case1 #donut h1 {
+    margin-top: -30px;
+}
+
+.titleFont {
+    position: relative;
+    color: white;
+    font-weight: bold;
+    font-size: 10em;
+}
+
+.showcase .case1 #donut h2 {
+    color: white;
+    font-weight: bold;
+}
+
+.showcase .case1 #donut span {
+    color: white;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+.showcase .case1 #donut img {
+    z-index: 0;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -100px;
+}
+
+.showcase .case2 #coffee h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    left: -40%;
+    width: 1px;
+}
+
+.showcase .case2 #coffee h1 span {
+    color: rgb(0, 255, 255);
+}
+
+.showcase .case2 #coffee img {
+    display: block;
+    position: relative;
+    top: -550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.showcase .case3 #banana {
+    text-align: center; 
+}
+
+.showcase .case3 #banana h1 {
+    top: 400px;
+}
+
+.showcase .case3 #banana img {
+    margin-right: 30px;
+}
+
+.showcase .case4 #lettuce {
+    text-align: center;
+}
+
+.showcase .case4 #lettuce img {
+    margin-top: -100px;
+}
+
+.showcase .case4 #lettuce h1 span {
+    color: rgb(255, 122, 122);
+}
+
+.showcase .case5 #egg {
+    text-align: center;
+}
+
+.showcase .case5 #egg h1 span {
+    color: rgb(89, 255, 178);
+}
+
+.showcase .case5 #egg img {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: -70px;
+}
+
+.page.introThemes {
+    background-color: rgb(87, 232, 208);
+}

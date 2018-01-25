@@ -1,0 +1,95 @@
+@media screen and (max-width: 1010px) {
+    .case1 #donut h2 {
+        font-size: 1em;
+    }
+    .case1 #donut h2 {
+        margin-bottom: 20px;
+    }
+    .case1 #donut h1 {
+        font-size: 3em;
+        margin-bottom: 250px;
+    }
+    .case1 #donut img {
+        width: 300px;
+        height: 300px;
+        margin-bottom: 100px;
+    }
+}
+@media screen and (max-width: 1040px) {
+    .case2 #coffee h1 {
+        display: block;
+        font-size: 5em;
+    }
+    .case2 #coffee img {
+        display: block;
+        position: relative;
+        margin-top: 500px;
+        width: 450px;
+        height: 350px;
+        transform: translateX(-50px);
+    }   
+}
+
+@media screen and (max-width: 1644px) {
+    .case3 #banana h1 {
+        text-align: center;
+        font-size: 5em;
+    }
+}
+@media screen and (max-width: 1365px) {
+    .case5 #egg h1 {
+        font-size: 5em;
+        margin-bottom: 150px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .case3 #banana h1 {
+        text-align: center;
+        font-size: 2em;
+    }
+
+    .case3 #banana img {
+        width: 400px;
+        height: 300px;
+        margin: 0;
+        right: 20%;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .case4 #lettuce h1 {
+        font-size: 4em;
+        margin-bottom: 4em;
+    }
+    .case4 #lettuce img {
+        width: 280px;
+        height: 280px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .case5 #egg h1 {
+        font-size: 3em;
+        margin-bottom: 200px;
+    }
+    .case5 #egg img {
+        width: 350px;
+        height: 300px;
+    }
+}
+
+
+@media screen and (max-width: 465px) {
+    .case3 #banana h1 {
+        text-align: center;
+        font-size: 1.8em;
+    }
+
+    .case3 #banana img {
+        width: 380px;
+        height: 280px;
+        margin: 0;
+        right: 20%;
+    }
+}
